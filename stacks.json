@@ -1,0 +1,24 @@
+{
+  "title": "Weather API Test",
+  "description": "Weather API with historical weather and 15-day forecast data",
+  "logo": "_images/whale.png",
+  "enabled": true,
+  "category_label": [
+    "API"
+  ],
+  "document": "",
+  "stack_id": "Weather_API_Test-api_1609759419696",
+  "de_catalog_id": "Weather_API_Test-api_1609759419696",
+  "type": "API",
+  "categories": [
+    "Public API"
+  ],
+  "tag": [],
+  "has_api": true,
+  "has_dataset": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/operator-playground-io/weather-test-api-tile",
+  "git_commit": "",
+  "installTime": "3 minutes"
+}

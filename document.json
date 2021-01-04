@@ -1,0 +1,44 @@
+{
+  "name": "Weather API Test",
+  "description": "Weather API with historical weather and 15-day forecast data",
+  "logo": "_images/whale.png",
+  "has_supporting_content": false,
+  "stack_id": "Weather_API_Test-api_1609759419696",
+  "de_catalog_id": "Weather_API_Test-api_1609759419696",
+  "type": "API",
+  "Categories": [
+    "Public API"
+  ],
+  "source_repo": "https://github.com/op-playground/operator-playground.git",
+  "cover": "cover.md",
+  "use_explorer_dataset": false,
+  "use_catalog_dataset": "",
+  "is_s3_type": false,
+  "meta": {
+    "Install Time": [
+      "3 minutes"
+    ],
+    "Type": [
+      "API"
+    ],
+    "Categories": [
+      "Public API"
+    ],
+    "Catalog Id": [
+      "Weather_API_Test-api_1609759419696"
+    ],
+    "Contact": [
+      "weather@ibm.com"
+    ]
+  },
+  "deployment_information": {
+    "API": "/home/student/projects/Weather_API_Test-api_1609759419696"
+  },
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ]
+}
